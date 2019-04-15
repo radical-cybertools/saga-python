@@ -24,7 +24,7 @@ license = 'License :: OSI Approved :: GNU General Public License v3 (GPLv3)'
 
 setup_args = {
     'name'               : name,
-    'version'            : '0.60.0',
+    'version'            : '0.60.1',
     'description'        : 'This module provides backward compatibility for '
                            'radical.saga',
     'author'             : 'RADICAL Group at Rutgers University',
